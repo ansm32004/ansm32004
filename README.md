@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anshuman Mishra</h1>
 <h3 align="center">A passionate UX Designer and Game Developer</h3>
-<img align="right" alt="Coding" width="400" src=https://www.behance.net/gallery/102686225/Vector-illustrationsanitmation-Internet-technology/modules/605480819>
+<img align="right" alt="Coding" width="400" src=https:https://miro.medium.com/v2/resize:fit:1100/format:webp/1*A2kD2TskQtP56OKXC1owMg.gif>
 
 - 🌱 I’m currently learning **UNITY(C#),UNREAL(C++) AND AR/VR**
 
