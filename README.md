@@ -14,9 +14,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anshuman-mishra-836100257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anshuman-mishra-836100257/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anshuman-mishra-836100257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshuman-mishra-836100257" height="30" width="40" /></a>
 <a href="https://instagram.com/ansminpixels" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ansminpixels" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/ansmfx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/ansmfx" height="30" width="40" /></a>
+<a href="https://www.behance.net/ansmfx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ansmfx" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/ansminpixels" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/ansminpixels" height="30" width="40" /></a>
 </p>
 
